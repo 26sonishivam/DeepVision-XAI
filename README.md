@@ -156,7 +156,7 @@ Results highlight model behavior, not performance optimization.
 
 ## 👨‍💻 Author
 
-**Shivam Soni**
+**Shivam Soni**  
 Deep Learning | Explainable AI
 
 ---
