@@ -142,7 +142,7 @@ pip install torch torchvision matplotlib numpy
 Then open:
 
 ```bash
-pes1ug23am287-xai-3.ipynb
+deepvision-xai.ipynb
 ```
 
 ---
